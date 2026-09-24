@@ -1,4 +1,4 @@
-# excel-advanced-analytics-dashboard
+# Excel-advanced-analytics-dashboard
 Advanced Excel analytics project featuring interactive dashboards, Pivot Tables, dynamic formulas, KPI reporting, GIS project tracking, and Office Script automation.
 # Advanced Excel & GIS Project Showcase — Naman Kumar				
 				
