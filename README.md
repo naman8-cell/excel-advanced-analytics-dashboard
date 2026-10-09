@@ -1,144 +1,95 @@
-# Excel-advanced-analytics-dashboard
-Advanced Excel analytics project featuring interactive dashboards, Pivot Tables, dynamic formulas, KPI reporting, GIS project tracking, and Office Script automation.
-# Advanced Excel & GIS Project Showcase — Naman Kumar				
-				
-## Overview				
-This project demonstrates advanced Microsoft Excel techniques for data analysis, reporting, dashboard development, business intelligence, and workflow automation.				
-The workbook simulates a real-world business environment by combining project management, financial tracking, GIS operations, team leadership reporting, risk management, and executive-level dashboarding into a single analytical solution.				
-It showcases how Excel can be used as a powerful business intelligence tool for decision-making and performance monitoring.				
----				
-## Project Objectives				
-- Build an executive dashboard for project monitoring				
-- Analyze project performance and financial metrics				
-- Track GIS project delivery and operational KPIs				
-- Monitor risks and resource utilization				
-- Demonstrate advanced Excel formulas and automation				
-- Create professional business reports and visualizations				
----				
-## Skills Demonstrated				
-### Advanced Formulas				
-- XLOOKUP				
-- INDEX + MATCH				
-- FILTER				
-- LET				
-- SUMIFS				
-- COUNTIFS				
-- IFERROR				
-- Dynamic Array Functions				
-- Structured References				
-### Data Analysis				
-- Pivot Tables				
-- Pivot Charts				
-- KPI Tracking				
-- Trend Analysis				
-- Performance Metrics				
-- Financial Analysis				
-### Dashboard Development				
-- Interactive Dashboard				
-- Executive Reporting				
-- Dynamic Charts				
-- KPI Cards				
-- Performance Indicators				
-- Conditional Formatting				
-### Business Intelligence				
-- Budget Monitoring				
-- Risk Assessment				
-- Project Tracking				
-- Team Performance Analysis				
-- Resource Management				
-- Management Reporting				
-### Automation				
-- Office Scripts				
-- Automated Reporting Examples				
-- Data Processing Workflows				
----				
-## Workbook Structure				
-### Dashboard				
-Executive-level dashboard providing a summary of project status, financial metrics, performance indicators, and operational insights.				
-### Business Insights				
-Analysis of trends, key drivers, and business performance metrics used for decision-making.				
-### GIS Projects				
-Tracking and analysis of GIS-related projects, capabilities, risks, completion percentages, and operational performance.				
-### Team Leadership				
-Monitoring team performance, management responsibilities, workload distribution, and project ownership.				
-### Advanced Formulas				
-Collection of advanced Excel formula examples demonstrating modern Microsoft 365 capabilities.				
-### Pivot Analysis				
-Interactive reporting using Pivot Tables and Pivot Charts.				
-### Chart Gallery				
-Examples of professional chart types and data visualization techniques.				
-### Automation				
-Office Script examples and automation workflows.				
-### Data Source				
-Structured dataset used throughout the workbook for reporting and analysis.				
----				
-## Key Features				
-✅ Executive Dashboard				
-✅ Advanced Excel Formulas				
-✅ Dynamic Reporting				
-✅ Pivot Table Analysis				
-✅ Financial KPI Monitoring				
-✅ GIS Project Analytics				
-✅ Team Leadership Dashboard				
-✅ Risk Assessment Tracking				
-✅ Office Script Automation				
-✅ Professional Workbook Documentation				
----				
-## Business Questions Answered				
-The workbook helps answer questions such as:				
-- Which projects generate the highest value?				
-- Which projects have the greatest delivery risks?				
-- How efficiently are budgets being utilized?				
-- Which managers oversee the most project value?				
-- What is the overall completion status of project portfolios?				
-- How is team workload distributed?				
----				
-## Tools Used				
-- Microsoft Excel 365				
-- Pivot Tables				
-- Dynamic Arrays				
-- Office Scripts				
-- Data Visualization Techniques				
-- Dashboard Design Principles				
----				
-				
-### Executive Dashboard				
-_Add screenshot here_				
-### Business Insights				
-_Add screenshot here_				
-### Pivot Analysis				
-_Add screenshot here_				
-### GIS Project Dashboard				
-_Add screenshot here_				
-### Team Leadership Dashboard				
-_Add screenshot here_				
----				
-## Learning Outcomes				
-Through this project, I strengthened my skills in:				
-- Advanced Excel analytics				
-- Dashboard development				
-- Business reporting				
-- Data storytelling				
-- KPI design				
-- Automation with Office Scripts				
-- GIS-oriented project analysis				
----				
-## About the Author				
-This project was created as part of my continuous learning journey in:				
-- Advanced Excel				
-- Data Analytics				
-- Business Intelligence				
-- GIS Operations				
-- Reporting & Dashboard Development				
-I enjoy solving real-world business problems through data analysis, process improvement, and automation.				
----				
-## Future Enhancements				
-- Power Query integration				
-- Data Model implementation				
-- Power Pivot measures				
-- Automated report refresh				
-- Additional executive dashboards				
-- Enhanced automation workflows				
----				
-## License				
-This project is intended for learning, portfolio, and demonstration purposes.				
+# 📊 Excel Advanced Analytics Dashboard
+
+An Excel-based analytics project focused on data organization, analysis, visualization, and reporting.
+
+## 📌 Project Overview
+
+This project demonstrates my practical Excel skills through an organized workbook and analytics dashboard.
+
+The objective is to transform structured data into meaningful insights using Excel tools and analytical techniques.
+
+This project also explores how spreadsheet-based data management and validation can support GIS workflows and utility data quality management.
+
+## 🎯 Project Objectives
+
+- Organize and manage structured datasets.
+- Apply Excel techniques for data analysis.
+- Present information through charts and visualizations.
+- Develop a clear and understandable reporting workflow.
+- Explore the use of Excel in GIS data management and quality control.
+
+## 🛠️ Tools & Technologies
+
+- Microsoft Excel
+- Data Analysis
+- Data Visualization
+- Spreadsheet Management
+- Analytical Reporting
+
+## 📈 Key Features
+
+Add the features you have actually implemented in your workbook:
+
+- Data organization and formatting
+- Formula-based calculations
+- Data analysis and summaries
+- Charts and visualizations
+- Dashboard reporting
+- Data validation and quality checks
+
+## 📂 Repository Structure
+
+```text
+excel-advanced-analytics-dashboard/
+│
+├── Assets/
+├── Documentation/
+├── Screenshot/
+├── Workbook/
+└── README.md
+```
+
+## 🖼️ Project Preview
+
+Screenshots of the workbook and dashboard are available in the `Screenshot` folder.
+
+## 🌍 Relevance to GIS
+
+As a GIS Technician, I recognize the importance of accurate data management and quality control.
+
+Excel skills can support GIS workflows through:
+
+- Attribute data validation
+- Identification of missing or duplicate records
+- Standardization of tabular data
+- Project progress reporting
+- Data summaries and visualizations
+
+This project represents my effort to strengthen my data analysis skills alongside my GIS experience.
+
+## 📚 Skills Demonstrated
+
+- Spreadsheet organization
+- Analytical thinking
+- Data presentation
+- Reporting and visualization
+- Data management
+
+## 🚀 Future Improvements
+
+- Expand dashboard functionality.
+- Add additional data validation techniques.
+- Explore Power Query for data transformation.
+- Investigate Python integration for data processing.
+
+## 👨‍💻 Author
+
+**Naman Kumar**
+
+GIS Technician | Excel Analytics | GIS Data Management
+
+This project is part of my continuous learning journey in data analytics and geospatial technology.
+
+---
+
+⭐ If you find this project useful, feel free to explore the repository.
