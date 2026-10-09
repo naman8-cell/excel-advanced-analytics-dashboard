@@ -65,9 +65,6 @@ Dedicated worksheets for exploring advanced formulas, charting, pivot analysis, 
 
 The repository's `Screenshot` folder contains visual previews of the Excel dashboard and workbook.
 
-<!-- Add your actual screenshot below after uploading it to the Screenshot folder. -->
-
-<!-- Example:
 ![Executive Dashboard](Screenshot/dashboard.png)
 -->
 
