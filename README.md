@@ -65,8 +65,8 @@ Dedicated worksheets for exploring advanced formulas, charting, pivot analysis, 
 
 The repository's `Screenshot` folder contains visual previews of the Excel dashboard and workbook.
 
-![Executive Dashboard](Screenshot/dashboard.png)
--->
+excel-advanced-analytics-dashboard/Screenshot
+/Dashboard.png
 
 ## 🌍 Relevance to GIS
 
