@@ -117,13 +117,13 @@ To demonstrate practical Excel analytics skills and explore how data-driven repo
 
 Explore the project documentation:
 
-- "Project Overview" (Documentation/Project_Overview.md)
-- "Dashboard Guide" (Documentation/Dashboard_Guide.md)
-- "Excel Formulas and Analysis" (Documentation/Excel_Formula.md)
+- [Project Overview](/.Documentation/Project_Overview.md)
+- [Dashboard Guide](/.Documentation/Dashboard_Guide.md)
+- [Excel Formulas and Analysis](/.Documentation/Excel_Formula.md)
 
-📂 Project Resources
+📁 Project Resources
 
-- "Excel Workbook" (Workbook/Excel%20Advance.xlsx)
-- "Dashboard Screenshot" (Screenshot/Dashboard.png)
-- "Charts" (Screenshot/Charts.png)
-- "Pivot Analysis" (Screenshot/Pivot_analysis.png)
+- [Download Excel Workbook](/.Workbook/Excel%20Advance.xlsx)
+- [View Executive Dashboard](/.Screenshot/Dashboard.png)
+- [View Charts](/.Screenshot/Charts.png)
+- [View Pivot Analysis](/.Screenshot/Pivot_analysis.png)
