@@ -8,14 +8,14 @@ This document describes the Excel formulas and analytical techniques used in the
 
 Add the formulas used in the workbook and explain their purpose.
 
-Excel Function| Typical Purpose
-SUM| Calculate totals
-AVERAGE| Calculate average values
-IF| Apply conditional logic
-COUNTIF| Count records meeting a condition
-SUMIFS| Calculate totals using multiple criteria
-XLOOKUP| Retrieve matching information
-IFERROR| Handle formula errors
+Excel Function                                        Typical Purpose
+SUM                                                   Calculate totals
+AVERAG                                                Calculate average values
+IF                                                    Apply conditional logic
+COUNTIF                                               Count records meeting a condition
+SUMIFS                                                Calculate totals using multiple criteria
+XLOOKUP                                               Retrieve matching information
+IFERROR                                               Handle formula errors
 
 These are examples of commonly used Excel functions. Include only the functions actually used in your workbook.
 
