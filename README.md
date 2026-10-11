@@ -113,13 +113,11 @@ I am continuously developing my skills in GIS, data analysis, visualization, and
 To demonstrate practical Excel analytics skills and explore how data-driven reporting can complement GIS project delivery.
 
 
-📚 Documentation
+## 📚 Documentation
 
-Explore the project documentation:
-
-- [Project Overview](/.Documentation/Project_Overview.md)
-- [Dashboard Guide](/.Documentation/Dashboard_Guide.md)
-- [Excel Formulas and Analysis](/.Documentation/Excel_Formula.md)
+- [Project Overview](https://github.com/naman8-cell/excel-advanced-analytics-dashboard/blob/main/Documentation/Project_Overview.md)
+- [Dashboard Guide](https://github.com/naman8-cell/excel-advanced-analytics-dashboard/blob/main/Documentation/Dashboard_Guide.md)
+- [Excel Formulas and Analysis](https://github.com/naman8-cell/excel-advanced-analytics-dashboard/blob/main/Documentation/Excel_Formula.md)
 
 📁 Project Resources
 
