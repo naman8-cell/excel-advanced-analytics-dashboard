@@ -111,3 +111,19 @@ I am continuously developing my skills in GIS, data analysis, visualization, and
 ## ⭐ Project Goal
 
 To demonstrate practical Excel analytics skills and explore how data-driven reporting can complement GIS project delivery.
+
+
+📚 Documentation
+
+Explore the project documentation:
+
+- "Project Overview" (Documentation/Project_Overview.md)
+- "Dashboard Guide" (Documentation/Dashboard_Guide.md)
+- "Excel Formulas and Analysis" (Documentation/Excel_Formula.md)
+
+📂 Project Resources
+
+- "Excel Workbook" (Workbook/Excel%20Advance.xlsx)
+- "Dashboard Screenshot" (Screenshot/Dashboard.png)
+- "Charts" (Screenshot/Charts.png)
+- "Pivot Analysis" (Screenshot/Pivot_analysis.png)
