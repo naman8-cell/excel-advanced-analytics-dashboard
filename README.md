@@ -119,9 +119,11 @@ To demonstrate practical Excel analytics skills and explore how data-driven repo
 - [Dashboard Guide](https://github.com/naman8-cell/excel-advanced-analytics-dashboard/blob/main/Documentation/Dashboard_Guide.md)
 - [Excel Formulas and Analysis](https://github.com/naman8-cell/excel-advanced-analytics-dashboard/blob/main/Documentation/Excel_Formula.md)
 
-📁 Project Resources
+## 📁 Project Resources
 
-- [Download Excel Workbook](/.Workbook/Excel%20Advance.xlsx)
-- [View Executive Dashboard](/.Screenshot/Dashboard.png)
-- [View Charts](/.Screenshot/Charts.png)
-- [View Pivot Analysis](/.Screenshot/Pivot_analysis.png)
+| Resource | Description |
+|---|---|
+| [Excel Workbook](https://github.com/naman8-cell/excel-advanced-analytics-dashboard/blob/main/Workbook/Excel%20Advance.xlsx) | Complete Excel workbook |
+| [Executive Dashboard](./Screenshot/Dashboard.png) | Interactive dashboard and KPI summary |
+| [Charts](./Screenshot/Charts.png) | Data visualization and trend charts |
+| [Pivot Analysis](./Screenshot/Pivot_analysis.png) | Pivot table analysis |
